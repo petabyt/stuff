@@ -6,7 +6,7 @@
 - https://cryptpad.fr/
 - https://www.darktable.org/
 - https://www.winehq.org/news/
-- https://github.com/ValveSoftware/Proton
+- https://github.com/ValveSoftware/gamescope
 - https://github.com/ocornut/imgui
 
 # Things that I want to be made or can't find
