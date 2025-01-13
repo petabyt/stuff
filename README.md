@@ -10,10 +10,12 @@
 - https://mate-desktop.org/
 - https://kde.org/plasma-desktop/
 - https://flatpak.org/
-- https://github.com/AppImage/appimagetool
+- https://github.com/AppImage/appimagetool or https://github.com/probonopd/go-appimage
+- https://www.qemu.org/
+- https://github.com/frang75/nappgui_src
 
 # Things that I want to be made or can't find
 - [ ] OSS clone of https://pingendo.com/ which generates sites with no JS
-- [ ] Powerful linux USB media/formatting tool (like Rufus)
+- [ ] Powerful Linux USB media/formatting tool (like Rufus) or adding usb flash media support to qemu
 - [ ] Alternative `make` implementation with better performance and debug tools
-- [ ] Shared library manager (not a package manager) that manages various ABIs and versions to help with cross-compiling and dependency hell
+- [ ] Shared library manager (not a package manager or source code manager) that manages archive/so/dll/dylib files of all ABIs and versions of various large frameworks and libraries to help with cross-compiling and dependency hell
