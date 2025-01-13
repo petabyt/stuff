@@ -16,4 +16,4 @@
 - [ ] OSS clone of https://pingendo.com/ which generates sites with no JS
 - [ ] Powerful linux USB media/formatting tool (like Rufus)
 - [ ] Alternative `make` implementation with better performance and debug tools
-- [ ] Shared library manager (not a package manager) that manages
+- [ ] Shared library manager (not a package manager) that manages various ABIs and versions to help with cross-compiling and dependency hell
