@@ -8,7 +8,7 @@
 - https://github.com/ValveSoftware/gamescope
 - https://github.com/ocornut/imgui
 - https://mate-desktop.org/
-- https://kde.org/plasma-desktop/
+- All KDE efforts: https://kde.org/
 - https://flatpak.org/
 - https://github.com/AppImage/appimagetool or https://github.com/probonopd/go-appimage
 - https://www.qemu.org/
