@@ -13,6 +13,7 @@
 - https://github.com/AppImage/appimagetool or https://github.com/probonopd/go-appimage
 - https://www.qemu.org/
 - https://github.com/frang75/nappgui_src
+- https://www.olivevideoeditor.org/
 
 # Things that I want to be made or can't find
 - [ ] OSS clone of https://pingendo.com/ which generates sites with no JS
