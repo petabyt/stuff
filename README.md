@@ -1,9 +1,15 @@
-# Projects/companies/efforts I'm watching
+# Projects/companies/efforts I'm watching or supporting
 ___
-https://github.com/Aliucord/Aliucord
+[The Debian project](https://www.debian.org/)
 
 ___
-https://github.com/darlinghq/darling
+[Calamares Linux Installer Framework](https://calamares.io/)
+
+___
+[Patched Discord Client](https://github.com/Aliucord/Aliucord)
+
+___
+[darling](https://github.com/darlinghq/darling), MacOS equivelant to Wine
 
 ___
 https://github.com/OpenAstroTech/OpenAstroTracker
@@ -12,37 +18,32 @@ ___
 https://github.com/reticulatedpines/magiclantern_simplified
 
 ___
-https://www.darktable.org/
+[Darktable](https://www.darktable.org/)
 
 ___
-https://www.winehq.org/news/
+[Wine](https://www.winehq.org/news/)
 
 ___
-https://github.com/ValveSoftware/gamescope
+[Valve's gamescope](https://github.com/ValveSoftware/gamescope)
 
 ___
-https://github.com/ocornut/imgui
-
-___
-I've been using MATE since 2017 I think.  
-https://mate-desktop.org/
+[Mate Desktop](https://mate-desktop.org/), a continuation of GNOME 2
 
 ___
 Several KDE efforts:
-- https://kde.org/
-- https://kde.org/plasma-desktop/
-- https://kdenlive.org/
+- [KDE](https://kde.org/)
+- [Plasma Desktop](https://kde.org/plasma-desktop/)
+- [Kdenlive](https://kdenlive.org/)
 
 ___
-flatpak seems to have won the packaging war over snap  
-https://flatpak.org/
+[flatpak](https://flatpak.org/), which seems to have won the packaging war over snap  
 
 ___
 AppImage has a good [specification](https://github.com/AppImage/AppImageSpec/), but the tools needed to package and compile appimages need work:
 https://github.com/AppImage/appimagetool or https://github.com/probonopd/go-appimage
 
 ___
-https://www.qemu.org/
+[QEMU](https://www.qemu.org/)
 
 ___
 https://github.com/frang75/nappgui_src
@@ -51,14 +52,16 @@ ___
 https://www.olivevideoeditor.org/
 
 ___
-https://usebottles.com/
+[Bottles](https://usebottles.com/)
 
 ___
 https://www.x.org/ and https://www.freedesktop.org/wiki/
 
 ___
-https://www.ffmpeg.org/  
-Can't forget about FFMPEG
+[https://www.ffmpeg.org/](Can't forget about FFMPEG)
+
+___
+https://github.com/ocornut/imgui
 
 ___
 
