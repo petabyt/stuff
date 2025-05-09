@@ -1,0 +1,11 @@
+# OSS Projects looking for donations
+- Debian: https://www.debian.org/donations
+- Wine: https://www.winehq.org/donate
+- systemd: https://github.com/systemd/systemd
+- MATE: https://mate-desktop.org/donate/
+- KDE: https://kde.org/donate/
+- Qemu: https://www.qemu.org/donations/
+- Bottles: https://usebottles.com/funding/
+- ffmpeg: https://www.ffmpeg.org/donations.html
+- pipewire: https://liberapay.com/PipeWire/donate
+- freedesktop: https://www.freedesktop.org/wiki/
