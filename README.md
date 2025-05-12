@@ -9,7 +9,7 @@ ___
 [Patched Discord Client](https://github.com/Aliucord/Aliucord)
 
 ___
-[darling](https://github.com/darlinghq/darling), MacOS equivelant to Wine
+[darling](https://github.com/darlinghq/darling), MacOS equivalent to Wine
 
 ___
 https://github.com/OpenAstroTech/OpenAstroTracker

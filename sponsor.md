@@ -9,3 +9,7 @@
 - ffmpeg: https://www.ffmpeg.org/donations.html
 - pipewire: https://liberapay.com/PipeWire/donate
 - freedesktop: https://www.freedesktop.org/wiki/
+- MangoHud: https://github.com/sponsors/flightlessmango
+- Marlin firmware: https://github.com/MarlinFirmware/Marlin
+- sudo: https://github.com/sudo-project/sudo
+- Blender: https://github.com/blender/blender
