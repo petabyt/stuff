@@ -6,6 +6,8 @@
 - KDE: https://kde.org/donate/
 - Qemu: https://www.qemu.org/donations/
 - Bottles: https://usebottles.com/funding/
+- msys2: https://github.com/sponsors/msys2
+- KiCad https://donate.kicad.org/
 - ffmpeg: https://www.ffmpeg.org/donations.html
 - pipewire: https://liberapay.com/PipeWire/donate
 - freedesktop: https://www.freedesktop.org/wiki/
@@ -13,3 +15,5 @@
 - Marlin firmware: https://github.com/MarlinFirmware/Marlin
 - sudo: https://github.com/sudo-project/sudo
 - Blender: https://github.com/blender/blender
+- pitSeb/box64: https://github.com/sponsors/ptitSeb
+- Rurban: https://github.com/sponsors/rurban
