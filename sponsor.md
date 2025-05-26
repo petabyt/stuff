@@ -16,4 +16,4 @@
 - sudo: https://github.com/sudo-project/sudo
 - Blender: https://github.com/blender/blender
 - pitSeb/box64: https://github.com/sponsors/ptitSeb
-- Rurban: https://github.com/sponsors/rurban
+- Musl libc: https://github.com/sponsors/richfelker
