@@ -72,10 +72,6 @@ ___
 OSS clone of https://pingendo.com/ (which I haven't used since 2017) which generates sites with no JS
 
 ___
-Powerful Linux USB media/formatting tool (like Rufus) or add usb flash media support to wine
-
-___
-Shared library manager (not a package manager or source code manager) that manages archive/so/dll/dylib files of all ABIs and versions of
-various large frameworks and libraries to help with cross-compiling and dependency hell
+Powerful Linux USB media/formatting tool (like Rufus)
 
 ___
