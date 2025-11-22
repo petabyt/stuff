@@ -43,7 +43,7 @@
 - SBC vendors require custom kernels and blobs in order to run a desktop
 - Rockchip SBCs are released as open-source products but community is forced to do the heavy lifting
 - Will eventually be replaced by RK3688 (ArmV9.3, Cortex-A730)
-- IP is complicated (maybe overcomplicated)
+- IP is complicated (arguably overcomplicated)
 ## NXP iMX
 - TRMs are available but you need to create an account
 ## Allwinner
