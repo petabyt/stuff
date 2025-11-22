@@ -34,18 +34,11 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
-          destination: ./_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          destination: ./
+      - name: deploy
+        run: |
+          git rm -rf .gitignore
+          git config --global user.email "you@example.com"
+          git config --global user.name "git"
+          git add . && git commit -m "pages"
+          git push -f origin master:gh-pages
